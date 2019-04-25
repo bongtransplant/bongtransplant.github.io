@@ -137,6 +137,10 @@
   text-decoration-style: solid;
 }
 
+.img {
+	padding:0px;
+	margin:0px;
+}
 
 .contact {
   color:rgb(112, 222, 255);
