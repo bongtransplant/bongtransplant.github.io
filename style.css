@@ -1,5 +1,5 @@
 #site {
-  max-width: 60%;
+  max-width: 80%;
   margin: auto;
 }
 
@@ -8,13 +8,13 @@
 }
 
 .title {
-   -webkit-text-stroke-width: 5px;
+   -webkit-text-stroke-width: 4px;
    -webkit-text-stroke-color: black;
   color:#08CE1B;
   cursor:pointer;
   display:inline;
   font-family:proxima-nova;
-  font-size:72px;
+  font-size:96px;
   font-style:normal;
   font-weight:700;
   height:auto;
@@ -37,7 +37,7 @@
   color:rgb(238, 255, 0);
   display:block;
   font-family:proxima-nova;
-  font-size:14px;
+  font-size:36px;
   font-style:normal;
   font-weight:600;
   height:25px;
@@ -64,10 +64,12 @@
 }
 
 .navbar li a {
+       -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
   color:rgb(238, 0, 0);
   display:block;
   font-family:proxima-nova;
-  font-size:20px;
+  font-size:28px;
   font-style:normal;
   font-weight:600;
   height:25px;
