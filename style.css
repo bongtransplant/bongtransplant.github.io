@@ -8,6 +8,8 @@
 }
 
 .title {
+   -webkit-text-stroke-width: 5px;
+   -webkit-text-stroke-color: black;
   color:#08CE1B;
   cursor:pointer;
   display:inline;
@@ -30,6 +32,8 @@
 }
 
 .tagline {
+     -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
   color:rgb(238, 255, 0);
   display:block;
   font-family:proxima-nova;
@@ -60,7 +64,7 @@
 }
 
 .navbar li a {
-  color:rgb(238, 255, 0);
+  color:rgb(238, 0, 0);
   display:block;
   font-family:proxima-nova;
   font-size:20px;
