@@ -31,6 +31,26 @@
   color:#595959;
 }
 
+.title2 {
+   -webkit-text-stroke-width: 4px;
+   -webkit-text-stroke-color: black;
+  color:#08CE1B;
+  cursor:pointer;
+  display:inline;
+  font-family:proxima-nova;
+  font-size:36px;
+  font-style:normal;
+  font-weight:700;
+  height:auto;
+  letter-spacing:5px;
+  line-height:72px;
+  text-size-adjust:100%;
+  text-transform:uppercase;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: solid;
+}
+
 .tagline {
      -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
