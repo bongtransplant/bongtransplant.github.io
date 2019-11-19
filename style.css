@@ -32,7 +32,7 @@
 }
 
 .title2 {
-   -webkit-text-stroke-width: 4px;
+   -webkit-text-stroke-width: 2px;
    -webkit-text-stroke-color: black;
   color:#08CE1B;
   cursor:pointer;
@@ -45,6 +45,7 @@
   letter-spacing:5px;
   line-height:72px;
   text-size-adjust:100%;
+  text-align: center;
   text-transform:uppercase;
   text-decoration: none;
   text-decoration-line: none;
